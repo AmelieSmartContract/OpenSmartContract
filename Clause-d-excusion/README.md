@@ -18,7 +18,7 @@ pouvoir.
 
 
 # Textes applicables 
-
+<div>
 •	Droit commun - Code civil
 Article 545
 Article 1193
@@ -44,7 +44,7 @@ Article L.228-35-10
 •	Groupement agricole d’exploitation en commun - Code rural et de la pêche maritime
 Article R.323-38
 
-
+</div>
 # Régime juridique
 
 La validité des clauses statutaires d’exclusion est expressément reconnue par la loi dans les sociétés par actions simplifiée, 
