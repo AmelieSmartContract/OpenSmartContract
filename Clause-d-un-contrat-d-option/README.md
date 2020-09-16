@@ -42,6 +42,9 @@ Article L.232-5
 Article L.622-7
 Article L.626-18
 
+•	Autres articles - Code de l'éducation
+L712-3
+
 # Régime juridique
 
 Le contrat d’option crée des obligations pour chacune des parties au contrat.
