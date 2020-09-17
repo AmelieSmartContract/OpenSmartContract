@@ -6,8 +6,7 @@ Titre de la clause
 # Définition de la clause 
 
 La clause d’exclusion est un droit accordé aux associés d’une société permettant d’exclure un des leurs à titre de sanction.
-Cette clause doit être mentionnée dans les statuts ou prise par décision soit du dirigeant (président fait référence à la SAS, 
-le terme de dirigeant est générique) de la société, soit de l’organe collégial compétent de la société, soit des associés lors 
+Cette clause doit être mentionnée dans les statuts ou prise par décision soit du dirigeant de la société, soit de l’organe collégial compétent de la société, soit des associés lors 
 d’une assemblée générale.
 
 # Contexte d'utilisation de la clause 
